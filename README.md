@@ -44,7 +44,7 @@ ExpenseDashboardPro/
 ├── build.gradle.kts                       # Project-level build script
 ├── settings.gradle.kts
 └── README.md
-
+```
 
 🚀 Getting Started
 Prerequisites
