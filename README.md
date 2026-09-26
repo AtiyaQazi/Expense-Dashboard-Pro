@@ -77,5 +77,4 @@ Click Run (Shift + F10) to build and launch the application.
 
 👤 Author
 Attia Qamar-un-Nisa
-
-Course: Mobile Application Development 
+ 
