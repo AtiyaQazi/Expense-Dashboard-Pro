@@ -58,7 +58,8 @@ Installation & Run
 Clone the repository:
 
 Bash
-git clone [https://github.com/AtiyaQazi/Expense-Dashboard-Pro.git]
+git clone https://github.com/AtiyaQazi/Expense-Dashboard-Pro.git
+
 Open in Android Studio:
 
 Launch Android Studio.
